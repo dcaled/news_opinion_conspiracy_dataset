@@ -1,8 +1,6 @@
 # NEWS, OPINION, AND CONSPIRACY ARTICLES DATASET
 
-from the paper
-
-The Thin Line Between Conspiracy Theories and Opinion: Why Humans and AI Struggle to Differentiate Them
+from the paper _The Thin Line Between Conspiracy Theories and Opinion: Why Humans and AI Struggle to Differentiate Them_
 
 by Paula Carvalho, Danielle Caled, and Mário J. Silva
 
